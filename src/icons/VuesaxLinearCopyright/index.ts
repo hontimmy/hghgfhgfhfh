@@ -1,0 +1,1 @@
+export { VuesaxLinearCopyright } from "./VuesaxLinearCopyright";

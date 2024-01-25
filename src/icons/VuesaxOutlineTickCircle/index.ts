@@ -1,0 +1,1 @@
+export { VuesaxOutlineTickCircle } from "./VuesaxOutlineTickCircle";

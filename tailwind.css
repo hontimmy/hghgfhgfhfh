@@ -1,0 +1,45 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --background-colour: rgba(248, 248, 248, 1);
+  --body-text-light-font-family: "WorkSans-Regular", Helvetica;
+  --body-text-light-font-size: 14px;
+  --body-text-light-font-style: normal;
+  --body-text-light-font-weight: 400;
+  --body-text-light-letter-spacing: 0.11200000166893005px;
+  --body-text-light-line-height: 18px;
+  --heading-font-family: "Inter-SemiBold", Helvetica;
+  --heading-font-size: 20px;
+  --heading-font-style: normal;
+  --heading-font-weight: 600;
+  --heading-letter-spacing: 0px;
+  --heading-line-height: normal;
+  --icon: rgba(154, 151, 151, 1);
+  --inactive-1: rgba(106, 106, 106, 1);
+  --internal-tool-background: rgba(245, 245, 245, 1);
+  --internal-tool-nav-font-family: "Poppins-Regular", Helvetica;
+  --internal-tool-nav-font-size: 13px;
+  --internal-tool-nav-font-style: normal;
+  --internal-tool-nav-font-weight: 400;
+  --internal-tool-nav-letter-spacing: 0.13px;
+  --internal-tool-nav-line-height: normal;
+  --internal-tool-subheading-font-family: "Poppins-Medium", Helvetica;
+  --internal-tool-subheading-font-size: 18px;
+  --internal-tool-subheading-font-style: normal;
+  --internal-tool-subheading-font-weight: 500;
+  --internal-tool-subheading-letter-spacing: 0.18px;
+  --internal-tool-subheading-line-height: normal;
+  --NATID: 0px 1px 61px 1px rgba(0, 0, 0, 0.25);
+  --primary-color-digital-bank: rgba(29, 29, 29, 1);
+  --primarymain-blue: rgba(14, 31, 63, 1);
+  --text-1: rgba(34, 34, 34, 1);
+  --text-3: rgba(108, 117, 125, 1);
+  --text-h1: rgba(26, 26, 26, 1);
+}

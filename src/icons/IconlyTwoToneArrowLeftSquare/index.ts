@@ -1,0 +1,1 @@
+export { IconlyTwoToneArrowLeftSquare } from "./IconlyTwoToneArrowLeftSquare";

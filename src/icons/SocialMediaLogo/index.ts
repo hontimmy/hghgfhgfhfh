@@ -1,0 +1,1 @@
+export { SocialMediaLogo } from "./SocialMediaLogo";

@@ -1,0 +1,1 @@
+export { VuesaxOutlineNotification } from "./VuesaxOutlineNotification";

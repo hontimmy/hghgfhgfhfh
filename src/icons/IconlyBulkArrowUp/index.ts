@@ -1,0 +1,1 @@
+export { IconlyBulkArrowUp } from "./IconlyBulkArrowUp";

@@ -1,0 +1,1 @@
+export { VuesaxOutlineArrowLeft } from "./VuesaxOutlineArrowLeft";
